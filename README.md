@@ -60,6 +60,7 @@ Projeto do curso "Django REST Framework: trabalhando com testes unitários e de 
 - python manage.py createsuperuser => cria o super usuario
 - python manage.py test => rodar os testes
 - python manage.py loaddata programas_iniciais.json => carrega arquivo
+- python manage.py dumpdata > protótipo_banco.json
 
 ### Comando para criar secret key para o django
 
