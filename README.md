@@ -71,3 +71,4 @@ Projeto do curso "Django REST Framework: trabalhando com testes unitários e de 
 2. source .venv/scripts/activate
 3. pip install -r requirements.txt
 4. python manage.py runserver
+5. python manage.py test
